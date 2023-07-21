@@ -1,0 +1,7 @@
+Designator,Footprint,Quantity,Value,LCSC Part #
+,RPi_Hat_Mounting_Hole,1,,
+D1,D_SOD-123F,1,D,C64898
+J1,PinHeader_2x06_P2.54mm_Vertical,1,rpi-gpio-powerhat,
+J2,1546551-2,1,VIN,
+J3,JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical,1,FAN,
+Q2,SOT-23,1,AO3402,C351406

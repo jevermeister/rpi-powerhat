@@ -609,7 +609,7 @@
     (property "Value" "rpi-gpio-powerhat" (at 67.31 30.48 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Footprint" "rpi-powerhat:Pin_Header_Straight_2x20" (at 48.26 34.29 0)
+    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x06_P2.54mm_Vertical" (at 48.26 34.29 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 48.26 34.29 0)
